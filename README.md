@@ -1,4 +1,4 @@
-![FullStack](https://github.com/mariaclarasimoes/projeto_FullStack_EN/assets/132612073/b9fa8eed-d6e0-427a-9626-ad041519d493)
+https://github.com/mariaclarasimoes/projeto_FullStack_EN/assets/132612073/a1e93052-2c3b-408b-ae93-22c71b5abd26
 
 🎯 Objective: Develop a Full Stack application for company registration. <br>
 
